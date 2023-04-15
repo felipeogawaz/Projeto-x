@@ -30,8 +30,8 @@
     font-family: 'Fredoka', sans-serif ;
 }
 #container-owl{
-    margin-left: 44%;
-    font-size: 15px;
+    margin-left: 43%;
+    font-size: 17px;
     color: #8f8f8f;
     font-family: raleway,sans-serif;
     font-style: italic;
@@ -46,7 +46,31 @@
     width: 40px;
     margin-top: 15%;
 }
-#github{
-    width: 52px;
-   
+#img-barra{
+    margin-left: 45%;
+    height: 15px;
+    margin-bottom: 10%;
+
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin-right: 20px;
+   margin-top: -100px;
+    width: 300px;
+    border-radius: 20px;
+   margin-bottom: 500px;
+    height: 500px;
+    background-color: #202020;
+}
+.btn{
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    transition: 1s;
+    background-color: #d1c4ad;
+    color: #d1c4ad;
+    cursor: pointer;
 }
