@@ -61,7 +61,7 @@ position: relative;
 margin-right: 40%;
 }
 .btn{
-    padding: 10px 30px;
+
     position: relative;
     border-radius: 10px;
     border: none;
@@ -73,6 +73,7 @@ margin-right: 40%;
 .frente{
     position: relative;
     height: 300px;
+    
 }
 .conteiner1{
     display: flex;
